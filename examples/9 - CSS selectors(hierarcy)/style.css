@@ -1,0 +1,29 @@
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+nav a{
+    display: block;
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background: blue;
+    color: white;
+    text-decoration: none;
+}
+
+
+.first-parent div{
+    border: 1px solid red;
+    height: 30px;
+}
+.second-parent div{
+    border: 1px solid blue;
+    height: 40px;
+}
