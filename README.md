@@ -7,6 +7,12 @@ chilatsergiu@gmail.com
 - HTML https://www.w3schools.com/html/
 - Git video tutorial https://www.youtube.com/watch?v=8JJ101D3knE
 
+
+## Tools for design
+- Figma https://figma.com
+- Figma template https://www.figma.com/file/N6pJfdausO5qWrCrNlCjTG/Woodies
+- Figma to HTML tutorial https://www.youtube.com/watch?v=aBLNtzhiYpo
+
 # Tools and editors
 ## Offline
 - VS Code https://code.visualstudio.com/
