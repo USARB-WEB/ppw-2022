@@ -1,0 +1,18 @@
+*{
+    border: 1px dotted blue;
+}
+
+div{
+    border: 1px solid red;
+    background-color: blue;
+}
+
+.element{
+    width: 150px;
+    height: 40px;
+    background-color: green;
+}
+
+#special-element{
+    background-color: yellow;
+}
