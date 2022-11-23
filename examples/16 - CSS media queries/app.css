@@ -1,0 +1,67 @@
+nav{
+    display: flex;
+    
+}
+
+nav a{
+    border: 1px solid blue;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    padding: 1em;
+}
+
+nav a:hover{
+    background-color: aquamarine;
+    text-decoration: none;
+}
+
+section{
+    border-radius: 1em;
+    border: 1px solid gray;
+    padding: 1em;
+    margin: 1em;
+}
+
+footer{
+    background-color: black;
+    padding: 3em;
+    text-align: center;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    nav{
+        display: block;
+        width: 100%;
+    }
+
+    nav a{
+        width: 40%;
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width: 300px) {
+    nav{
+        display: block;
+        width: 100%;
+    }
+
+    nav a{
+        width: 100%;
+    }
+
+    #logo{
+        display: none;
+    }
+}
+
+@media print{
+    nav{
+        display: none;
+    }
+}
+
