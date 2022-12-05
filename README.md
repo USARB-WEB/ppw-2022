@@ -6,6 +6,7 @@ chilatsergiu@gmail.com
 # Tutorials
 - HTML https://www.w3schools.com/html/
 - Git video tutorial https://www.youtube.com/watch?v=8JJ101D3knE
+- JavaSript https://javascript.info/
 
 
 ## Tools for design
@@ -24,6 +25,11 @@ chilatsergiu@gmail.com
 
 ## Online
 - https://codesandbox.io/
+
+# CSS frameworks
+- Bootstrap https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
 
 # Link to video conference
 https://meet.google.com/xej-qvxf-rau
